@@ -7,5 +7,3 @@
 Documentation and tutorials are severely lacking. While Mathworks offers training and consulting services not everyone interested in learning about DO-178, IEC 61508, and ISO 26262 software development can get to them. Not everyone is a 'book learner'.
 
 This set of tutorials is aimed at giving Simulink and Embedded Developers a crash course in developing for a new Embedded Target Environment.
-
-If .tlc & .cgt are are still intimidating for your developers, [I am available for short term development work.](https://www.linkedin.com/in/jed-frey/)
